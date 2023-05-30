@@ -33,7 +33,8 @@
 <canvas class="background"></canvas>
 </body>
 </html>
-## <img width="330" alt="Screenshot 2023-05-29 at 6 14 55 PM" src="https://github.com/sudo-self/splash/assets/119916323/e5ccb8d4-bd76-487c-8825-e04eff1b85c2">
+# CSS
+## <img width="330" alt="Screenshot 2023-05-29 at 6 14 55 PM" src="https://github.com/sudo-self/splash/assets/119916323/1c7db120-61c8-4575-a488-3899a565a13f">
 
 
 
