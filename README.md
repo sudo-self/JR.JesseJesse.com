@@ -1,4 +1,4 @@
-# splash
+# Splash is the sound of subdomains all hitting the water 
 ## <img width="1187" alt="Screenshot 2023-05-29 at 6 12 12 PM" src="https://github.com/sudo-self/splash/assets/119916323/5e0d9b6f-fe9c-44e4-9863-88cd843810a3">
 ## <img width="1275" alt="Screenshot 2023-05-29 at 6 18 17 PM" src="https://github.com/sudo-self/splash/assets/119916323/cae88328-0873-4a80-a956-517ce35fcdda">
 ### 
@@ -34,7 +34,7 @@
 </body>
 </html>
 <img width="330" alt="Screenshot 2023-05-29 at 6 14 55 PM" src="https://github.com/sudo-self/splash/assets/119916323/1c7db120-61c8-4575-a488-3899a565a13f">
-## <img width="946" alt="Screenshot 2023-05-29 at 6 33 33 PM" src="https://github.com/sudo-self/splash/assets/119916323/712a8dda-802d-4afd-b4b3-c217b1b1aac4">
+<img width="946" alt="Screenshot 2023-05-29 at 6 33 33 PM" src="https://github.com/sudo-self/splash/assets/119916323/712a8dda-802d-4afd-b4b3-c217b1b1aac4">
 
 
 
