@@ -34,6 +34,7 @@
 </body>
 </html>
 <img width="330" alt="Screenshot 2023-05-29 at 6 14 55 PM" src="https://github.com/sudo-self/splash/assets/119916323/1c7db120-61c8-4575-a488-3899a565a13f">
+## <img width="946" alt="Screenshot 2023-05-29 at 6 33 33 PM" src="https://github.com/sudo-self/splash/assets/119916323/712a8dda-802d-4afd-b4b3-c217b1b1aac4">
 
 
 
