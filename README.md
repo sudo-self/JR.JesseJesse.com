@@ -31,9 +31,6 @@
   </section>
 </main>
 <canvas class="background"></canvas>
-
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script><script  src="./script.js"></script>
-
 </body>
 </html>
 ###
